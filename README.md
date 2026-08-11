@@ -1,10 +1,8 @@
 # 🧑🏾‍💻 Thiago Expedito
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
-Sou desenvolvedor front-end em início de carreira, com foco em construir interfaces modernas, responsivas e bem estruturadas, sempre buscando evoluir tecnicamente e entregar código limpo, organizado e de fácil manutenção.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIT. Meu objetivo profissional inicial é atuar como Desenvolvedor Front-end, contribuindo em projetos reais, aprendendo com times experientes e evoluindo para soluções cada vez mais completas, seguindo boas práticas de desenvolvimento e padrões de mercado.
 
 ### 🤖 Linguagens e Tecnologias
 
